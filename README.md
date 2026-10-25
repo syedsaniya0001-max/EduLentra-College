@@ -12,7 +12,7 @@ The deployment has three services:
 
 ### 1. Put the full project on GitHub
 
-Create a new public GitHub repository for this College-only project, then push this folder to it. The repository contains the frontend entry files, College portal, required API helpers/assets, and backend. It does not include the unrelated HACKFUSION, portfolio, or library-project folders.
+This public repository contains the frontend entry files, College portal, required API helpers/assets, and backend. It does not include the unrelated HACKFUSION, portfolio, or library-project folders.
 
 Before pushing, review `git status` and stage only files intended for deployment. Never commit `.env`, `.env.*` other than `.env.example`, `node_modules`, or `dist`.
 
